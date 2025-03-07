@@ -2,7 +2,7 @@
 
 [![@supernovaysi's Holopin board](https://holopin.io/api/user/board?user=supernovaysi)](https://holopin.io/@supernovaysi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongil99&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongil99&layout=compact&theme=radical)
 
 
 <!--
