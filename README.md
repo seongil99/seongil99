@@ -4,7 +4,7 @@
 
 [![@supernovaysi's Holopin board](https://holopin.io/api/user/board?user=supernovaysi)](https://holopin.io/@supernovaysi)
 
-![seongil99's github stats](https://github-readme-stats.vercel.app/api?username=seongil99&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongil99&layout=compact&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongil99&layout=compact&theme=radical)  ![seongil99's github stats](https://github-readme-stats.vercel.app/api?username=seongil99&show_icons=true) 
 
 
 
